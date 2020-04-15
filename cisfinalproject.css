@@ -1,0 +1,90 @@
+body{
+  font-family:'Arial Narrow', sans-serif;
+  font-weight:350;
+  font-size:20px;
+  background-color: beige;
+}
+div{
+  color:rgb(153, 204, 255);
+  display:block;
+  font-style: italic;
+}
+
+html {
+    display: block;
+    color: -internal-root-color;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    text-size-adjust: 100%;
+}
+
+#root {
+    color: rgb(153, 204, 255);
+    font-family:'Arial Narrow', sans-serif;
+    font-size: 24px;
+    line-height: 1.2;
+    background: beige;
+}
+
+.kwULjE.kwULjE {
+    box-sizing:content-box;
+    border:1px rgb(153, 204, 255);
+}
+
+.kwULjE.kwULjE *, .kwULjE.kwULjE ::before, .kwULjE.kwULjE ::after {
+    box-sizing: content-box;
+
+  div {
+    display: block;
+}
+
+.kwULjE.kwULjE *,.kwULjE.kwULjE ::before, .kwULjE.kwULjE ::after {
+    box-sizing: inherit;
+}
+
+.kwULjE.kwULjE *,.kwULjE.kwULjE ::before, .kwULjE.kwULjE ::after {
+    box-sizing: inherit;
+}
+
+.kjoqZR.kjoqZR {
+    position: relative;
+    z-index: 0;
+}
+
+.kwULjE.kwULjE *, .kwULjE.kwULjE ::before, .kwULjE.kwULjE ::after {
+    box-sizing: inherit;
+}
+
+div {
+    display: block;
+}
+
+.koXgWL.koXgWL {
+    background-image: url(/TerminusContent/dist/img/SplashPageHero/0118-hero-carpenter__2000w.jpg);
+}
+<style>
+.koXgWL.koXgWL {
+    position: relative;
+    background: center center / cover rgb(206, 212, 218);
+}
+<style>
+.kwULjE.kwULjE *, .kwULjE.kwULjE ::before, .kwULjE.kwULjE ::after {
+    box-sizing: inherit;
+}
+<style>
+.kwULjE.kwULjE,.kwULjE.kwULjE ::before, .kwULjE.kwULjE ::after {
+    box-sizing: inherit;
+}
+.logo-sc-18xfbty-0fhsUrh.logo-sc-18xfbty-0fhsUrh{
+  width:50px;
+  height:50px;
+}
+
+div {
+    display: block;
+}
+ a:link{color:orange;} /this is the original link, before clicking/
+ a:visited{color:navy;} /once its been clicked on/
+ a:hover{color:black;} /when you move the mouse over the link/
+ a:active{color:green;} /* when you physically click on the link*/
