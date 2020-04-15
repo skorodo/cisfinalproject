@@ -1,0 +1,22 @@
+body{
+  font-family:'Arial Narrow', sans-serif;
+  font-weight:350;
+  font-size:20px;
+  background-color: beige;
+}
+div{
+  align-items: center;
+  color:blue;
+  display:block;
+}
+
+ a:link{color:orange;} /this is the original link, before clicking/
+ a:visited{color:navy;} /once its been clicked on/
+ a:hover{color:black;} /when you move the mouse over the link/
+ a:active{color:green;} /* when you physically click on the link*/
+
+ #header div #snav div a{
+   display: block;
+   width: 150px;
+   height:150px;
+ }
